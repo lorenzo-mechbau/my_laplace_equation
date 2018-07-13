@@ -1,0 +1,26 @@
+
+Solver:
+  Solver index = 1
+User time for equations setup and initialisation = 0.00000000
+System time for equations setup and initialisation = 0.00000000
+
+User time for internal equations assembly = 9.99999791E-03
+System time for internal equations assembly = 0.00000000
+User time for parameter transfer completion = 0.00000000
+System time for parameter transfer completion = 0.00000000
+User time for boundary+ghost equations assembly = 0.00000000
+System time for boundary+ghost equations assembly = 0.00000000
+Average element user time for equations assembly = 6.66666529E-06
+Average element system time for equations assembly = 0.00000000
+
+Total user time for equations assembly = 9.99999791E-03
+Total system time for equations assembly = 0.00000000
+
+Total user time for solver matrices assembly = 0.210000008
+Total System time for solver matrices assembly = 9.99999978E-03
+
+Total user time for solver RHS assembly = 0.00000000
+Total System time for solver RHS assembly = 0.00000000
+
+Total user time for solve = 0.300000012
+Total System time for solve = 1.99999996E-02

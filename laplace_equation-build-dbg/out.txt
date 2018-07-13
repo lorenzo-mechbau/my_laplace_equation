@@ -1,0 +1,5 @@
+Partitioning a graph of size 12 serially
+      Setup: Max:   0.000, Sum:   0.000, Balance:   1.000
+      Remap: Max:   0.000, Sum:   0.000, Balance:   1.000
+      Total: Max:   0.000, Sum:   0.001, Balance:   1.000
+Final   2-way Cut:     16 	Balance: 1.000 

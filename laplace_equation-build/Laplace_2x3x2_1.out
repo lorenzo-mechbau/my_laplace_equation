@@ -1,0 +1,33 @@
+
+Solver:
+  Solver index = 1
+User time for equations setup and initialisation = 0.00000000
+System time for equations setup and initialisation = 0.00000000
+
+User time for internal equations assembly = 0.00000000
+System time for internal equations assembly = 0.00000000
+User time for parameter transfer completion = 0.00000000
+System time for parameter transfer completion = 0.00000000
+User time for boundary+ghost equations assembly = 0.00000000
+System time for boundary+ghost equations assembly = 0.00000000
+Average element user time for equations assembly = 0.00000000
+Average element system time for equations assembly = 0.00000000
+
+Total user time for equations assembly = 0.00000000
+Total system time for equations assembly = 0.00000000
+
+Total user time for solver matrices assembly = 0.00000000
+Total System time for solver matrices assembly = 0.00000000
+
+Total user time for solver RHS assembly = 0.00000000
+Total System time for solver RHS assembly = 0.00000000
+
+Solver matrices:
+Number of matrices = 1
+Solver matrix : 1
+Solver RHS vector:
+Vector(:)          :  0.000000E+00  0.000000E+00  0.000000E+00  0.000000E+00  0.000000E+00  0.000000E+00  0.000000E+00  0.000000E+00
+                      0.000000E+00  0.000000E+00  0.000000E+00  0.000000E+00  0.000000E+00  0.000000E+00  0.000000E+00  0.000000E+00
+                      0.000000E+00  0.000000E+00  0.393519E-01  0.509259E-01  0.000000E+00  0.162037E-01 -0.231481E-01  0.000000E+00
+                      0.000000E+00  0.000000E+00  0.000000E+00  0.000000E+00  0.000000E+00  0.000000E+00  0.509259E-01  0.462963E-01
+                      0.000000E+00 -0.231481E-01

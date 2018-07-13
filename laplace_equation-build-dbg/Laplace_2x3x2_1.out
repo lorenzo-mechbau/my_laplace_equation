@@ -1,0 +1,1044 @@
+Tree:
+Number of tree nodes = 12
+Tree insert type = 2
+  Tree Node:
+    Key = 1
+    Value = 1
+    Colour = 0
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 2
+  Tree Node:
+    Key = 2
+    Value = 2
+    Colour = 0
+    Left Key = 1
+    Right Key = 3
+    Parent Key = 4
+  Tree Node:
+    Key = 3
+    Value = 3
+    Colour = 0
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 2
+  Tree Node:
+    Key = 4
+    Value = 4
+    Colour = 0
+    Left Key = 2
+    Right Key = 8
+    Parent Key = NIL
+  Tree Node:
+    Key = 5
+    Value = 5
+    Colour = 0
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 6
+  Tree Node:
+    Key = 6
+    Value = 6
+    Colour = 1
+    Left Key = 5
+    Right Key = 7
+    Parent Key = 8
+  Tree Node:
+    Key = 7
+    Value = 7
+    Colour = 0
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 6
+  Tree Node:
+    Key = 8
+    Value = 8
+    Colour = 0
+    Left Key = 6
+    Right Key = 10
+    Parent Key = 4
+  Tree Node:
+    Key = 9
+    Value = 9
+    Colour = 0
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 10
+  Tree Node:
+    Key = 10
+    Value = 10
+    Colour = 1
+    Left Key = 9
+    Right Key = 11
+    Parent Key = 8
+  Tree Node:
+    Key = 11
+    Value = 11
+    Colour = 0
+    Left Key = NIL
+    Right Key = 12
+    Parent Key = 10
+  Tree Node:
+    Key = 12
+    Value = 12
+    Colour = 1
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 11
+Tree:
+Number of tree nodes = 12
+Tree insert type = 2
+  Tree Node:
+    Key = 1
+    Value = 1
+    Colour = 0
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 2
+  Tree Node:
+    Key = 2
+    Value = 2
+    Colour = 0
+    Left Key = 1
+    Right Key = 3
+    Parent Key = 4
+  Tree Node:
+    Key = 3
+    Value = 3
+    Colour = 0
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 2
+  Tree Node:
+    Key = 4
+    Value = 4
+    Colour = 0
+    Left Key = 2
+    Right Key = 8
+    Parent Key = NIL
+  Tree Node:
+    Key = 5
+    Value = 5
+    Colour = 0
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 6
+  Tree Node:
+    Key = 6
+    Value = 6
+    Colour = 1
+    Left Key = 5
+    Right Key = 7
+    Parent Key = 8
+  Tree Node:
+    Key = 7
+    Value = 7
+    Colour = 0
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 6
+  Tree Node:
+    Key = 8
+    Value = 8
+    Colour = 0
+    Left Key = 6
+    Right Key = 10
+    Parent Key = 4
+  Tree Node:
+    Key = 9
+    Value = 9
+    Colour = 0
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 10
+  Tree Node:
+    Key = 10
+    Value = 10
+    Colour = 1
+    Left Key = 9
+    Right Key = 11
+    Parent Key = 8
+  Tree Node:
+    Key = 11
+    Value = 11
+    Colour = 0
+    Left Key = NIL
+    Right Key = 12
+    Parent Key = 10
+  Tree Node:
+    Key = 12
+    Value = 12
+    Colour = 1
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 11
+Tree:
+Number of tree nodes = 12
+Tree insert type = 2
+  Tree Node:
+    Key = 1
+    Value = 1
+    Colour = 0
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 2
+  Tree Node:
+    Key = 2
+    Value = 2
+    Colour = 0
+    Left Key = 1
+    Right Key = 3
+    Parent Key = 4
+  Tree Node:
+    Key = 3
+    Value = 3
+    Colour = 0
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 2
+  Tree Node:
+    Key = 4
+    Value = 4
+    Colour = 0
+    Left Key = 2
+    Right Key = 8
+    Parent Key = NIL
+  Tree Node:
+    Key = 5
+    Value = 5
+    Colour = 0
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 6
+  Tree Node:
+    Key = 6
+    Value = 6
+    Colour = 1
+    Left Key = 5
+    Right Key = 7
+    Parent Key = 8
+  Tree Node:
+    Key = 7
+    Value = 7
+    Colour = 0
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 6
+  Tree Node:
+    Key = 8
+    Value = 8
+    Colour = 0
+    Left Key = 6
+    Right Key = 10
+    Parent Key = 4
+  Tree Node:
+    Key = 9
+    Value = 9
+    Colour = 0
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 10
+  Tree Node:
+    Key = 10
+    Value = 10
+    Colour = 1
+    Left Key = 9
+    Right Key = 11
+    Parent Key = 8
+  Tree Node:
+    Key = 11
+    Value = 11
+    Colour = 0
+    Left Key = NIL
+    Right Key = 12
+    Parent Key = 10
+  Tree Node:
+    Key = 12
+    Value = 12
+    Colour = 1
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 11
+Tree:
+Number of tree nodes = 12
+Tree insert type = 2
+  Tree Node:
+    Key = 1
+    Value = 1
+    Colour = 0
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 2
+  Tree Node:
+    Key = 2
+    Value = 2
+    Colour = 0
+    Left Key = 1
+    Right Key = 3
+    Parent Key = 4
+  Tree Node:
+    Key = 3
+    Value = 3
+    Colour = 0
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 2
+  Tree Node:
+    Key = 4
+    Value = 4
+    Colour = 0
+    Left Key = 2
+    Right Key = 8
+    Parent Key = NIL
+  Tree Node:
+    Key = 5
+    Value = 5
+    Colour = 0
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 6
+  Tree Node:
+    Key = 6
+    Value = 6
+    Colour = 1
+    Left Key = 5
+    Right Key = 7
+    Parent Key = 8
+  Tree Node:
+    Key = 7
+    Value = 7
+    Colour = 0
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 6
+  Tree Node:
+    Key = 8
+    Value = 8
+    Colour = 0
+    Left Key = 6
+    Right Key = 10
+    Parent Key = 4
+  Tree Node:
+    Key = 9
+    Value = 9
+    Colour = 0
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 10
+  Tree Node:
+    Key = 10
+    Value = 10
+    Colour = 1
+    Left Key = 9
+    Right Key = 11
+    Parent Key = 8
+  Tree Node:
+    Key = 11
+    Value = 11
+    Colour = 0
+    Left Key = NIL
+    Right Key = 12
+    Parent Key = 10
+  Tree Node:
+    Key = 12
+    Value = 12
+    Colour = 1
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 11
+Tree:
+Number of tree nodes = 12
+Tree insert type = 2
+  Tree Node:
+    Key = 1
+    Value = 1
+    Colour = 0
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 2
+  Tree Node:
+    Key = 2
+    Value = 2
+    Colour = 0
+    Left Key = 1
+    Right Key = 3
+    Parent Key = 4
+  Tree Node:
+    Key = 3
+    Value = 3
+    Colour = 0
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 2
+  Tree Node:
+    Key = 4
+    Value = 4
+    Colour = 0
+    Left Key = 2
+    Right Key = 8
+    Parent Key = NIL
+  Tree Node:
+    Key = 5
+    Value = 5
+    Colour = 0
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 6
+  Tree Node:
+    Key = 6
+    Value = 6
+    Colour = 1
+    Left Key = 5
+    Right Key = 7
+    Parent Key = 8
+  Tree Node:
+    Key = 7
+    Value = 7
+    Colour = 0
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 6
+  Tree Node:
+    Key = 8
+    Value = 8
+    Colour = 0
+    Left Key = 6
+    Right Key = 10
+    Parent Key = 4
+  Tree Node:
+    Key = 9
+    Value = 9
+    Colour = 0
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 10
+  Tree Node:
+    Key = 10
+    Value = 10
+    Colour = 1
+    Left Key = 9
+    Right Key = 11
+    Parent Key = 8
+  Tree Node:
+    Key = 11
+    Value = 11
+    Colour = 0
+    Left Key = NIL
+    Right Key = 12
+    Parent Key = 10
+  Tree Node:
+    Key = 12
+    Value = 12
+    Colour = 1
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 11
+Tree:
+Number of tree nodes = 12
+Tree insert type = 2
+  Tree Node:
+    Key = 1
+    Value = 1
+    Colour = 0
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 2
+  Tree Node:
+    Key = 2
+    Value = 2
+    Colour = 0
+    Left Key = 1
+    Right Key = 3
+    Parent Key = 4
+  Tree Node:
+    Key = 3
+    Value = 3
+    Colour = 0
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 2
+  Tree Node:
+    Key = 4
+    Value = 4
+    Colour = 0
+    Left Key = 2
+    Right Key = 8
+    Parent Key = NIL
+  Tree Node:
+    Key = 5
+    Value = 5
+    Colour = 0
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 6
+  Tree Node:
+    Key = 6
+    Value = 6
+    Colour = 1
+    Left Key = 5
+    Right Key = 7
+    Parent Key = 8
+  Tree Node:
+    Key = 7
+    Value = 7
+    Colour = 0
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 6
+  Tree Node:
+    Key = 8
+    Value = 8
+    Colour = 0
+    Left Key = 6
+    Right Key = 10
+    Parent Key = 4
+  Tree Node:
+    Key = 9
+    Value = 9
+    Colour = 0
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 10
+  Tree Node:
+    Key = 10
+    Value = 10
+    Colour = 1
+    Left Key = 9
+    Right Key = 11
+    Parent Key = 8
+  Tree Node:
+    Key = 11
+    Value = 11
+    Colour = 0
+    Left Key = NIL
+    Right Key = 12
+    Parent Key = 10
+  Tree Node:
+    Key = 12
+    Value = 12
+    Colour = 1
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 11
+Tree:
+Number of tree nodes = 12
+Tree insert type = 2
+  Tree Node:
+    Key = 1
+    Value = 1
+    Colour = 0
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 2
+  Tree Node:
+    Key = 2
+    Value = 2
+    Colour = 0
+    Left Key = 1
+    Right Key = 3
+    Parent Key = 4
+  Tree Node:
+    Key = 3
+    Value = 3
+    Colour = 0
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 2
+  Tree Node:
+    Key = 4
+    Value = 4
+    Colour = 0
+    Left Key = 2
+    Right Key = 8
+    Parent Key = NIL
+  Tree Node:
+    Key = 5
+    Value = 5
+    Colour = 0
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 6
+  Tree Node:
+    Key = 6
+    Value = 6
+    Colour = 1
+    Left Key = 5
+    Right Key = 7
+    Parent Key = 8
+  Tree Node:
+    Key = 7
+    Value = 7
+    Colour = 0
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 6
+  Tree Node:
+    Key = 8
+    Value = 8
+    Colour = 0
+    Left Key = 6
+    Right Key = 10
+    Parent Key = 4
+  Tree Node:
+    Key = 9
+    Value = 9
+    Colour = 0
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 10
+  Tree Node:
+    Key = 10
+    Value = 10
+    Colour = 1
+    Left Key = 9
+    Right Key = 11
+    Parent Key = 8
+  Tree Node:
+    Key = 11
+    Value = 11
+    Colour = 0
+    Left Key = NIL
+    Right Key = 12
+    Parent Key = 10
+  Tree Node:
+    Key = 12
+    Value = 12
+    Colour = 1
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 11
+Tree:
+Number of tree nodes = 12
+Tree insert type = 2
+  Tree Node:
+    Key = 1
+    Value = 1
+    Colour = 0
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 2
+  Tree Node:
+    Key = 2
+    Value = 2
+    Colour = 0
+    Left Key = 1
+    Right Key = 3
+    Parent Key = 4
+  Tree Node:
+    Key = 3
+    Value = 3
+    Colour = 0
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 2
+  Tree Node:
+    Key = 4
+    Value = 4
+    Colour = 0
+    Left Key = 2
+    Right Key = 8
+    Parent Key = NIL
+  Tree Node:
+    Key = 5
+    Value = 5
+    Colour = 0
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 6
+  Tree Node:
+    Key = 6
+    Value = 6
+    Colour = 1
+    Left Key = 5
+    Right Key = 7
+    Parent Key = 8
+  Tree Node:
+    Key = 7
+    Value = 7
+    Colour = 0
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 6
+  Tree Node:
+    Key = 8
+    Value = 8
+    Colour = 0
+    Left Key = 6
+    Right Key = 10
+    Parent Key = 4
+  Tree Node:
+    Key = 9
+    Value = 9
+    Colour = 0
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 10
+  Tree Node:
+    Key = 10
+    Value = 10
+    Colour = 1
+    Left Key = 9
+    Right Key = 11
+    Parent Key = 8
+  Tree Node:
+    Key = 11
+    Value = 11
+    Colour = 0
+    Left Key = NIL
+    Right Key = 12
+    Parent Key = 10
+  Tree Node:
+    Key = 12
+    Value = 12
+    Colour = 1
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 11
+Tree:
+Number of tree nodes = 12
+Tree insert type = 2
+  Tree Node:
+    Key = 1
+    Value = 1
+    Colour = 0
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 2
+  Tree Node:
+    Key = 2
+    Value = 2
+    Colour = 0
+    Left Key = 1
+    Right Key = 3
+    Parent Key = 4
+  Tree Node:
+    Key = 3
+    Value = 3
+    Colour = 0
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 2
+  Tree Node:
+    Key = 4
+    Value = 4
+    Colour = 0
+    Left Key = 2
+    Right Key = 8
+    Parent Key = NIL
+  Tree Node:
+    Key = 5
+    Value = 5
+    Colour = 0
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 6
+  Tree Node:
+    Key = 6
+    Value = 6
+    Colour = 1
+    Left Key = 5
+    Right Key = 7
+    Parent Key = 8
+  Tree Node:
+    Key = 7
+    Value = 7
+    Colour = 0
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 6
+  Tree Node:
+    Key = 8
+    Value = 8
+    Colour = 0
+    Left Key = 6
+    Right Key = 10
+    Parent Key = 4
+  Tree Node:
+    Key = 9
+    Value = 9
+    Colour = 0
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 10
+  Tree Node:
+    Key = 10
+    Value = 10
+    Colour = 1
+    Left Key = 9
+    Right Key = 11
+    Parent Key = 8
+  Tree Node:
+    Key = 11
+    Value = 11
+    Colour = 0
+    Left Key = NIL
+    Right Key = 12
+    Parent Key = 10
+  Tree Node:
+    Key = 12
+    Value = 12
+    Colour = 1
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 11
+Tree:
+Number of tree nodes = 12
+Tree insert type = 2
+  Tree Node:
+    Key = 1
+    Value = 1
+    Colour = 0
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 2
+  Tree Node:
+    Key = 2
+    Value = 2
+    Colour = 0
+    Left Key = 1
+    Right Key = 3
+    Parent Key = 4
+  Tree Node:
+    Key = 3
+    Value = 3
+    Colour = 0
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 2
+  Tree Node:
+    Key = 4
+    Value = 4
+    Colour = 0
+    Left Key = 2
+    Right Key = 8
+    Parent Key = NIL
+  Tree Node:
+    Key = 5
+    Value = 5
+    Colour = 0
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 6
+  Tree Node:
+    Key = 6
+    Value = 6
+    Colour = 1
+    Left Key = 5
+    Right Key = 7
+    Parent Key = 8
+  Tree Node:
+    Key = 7
+    Value = 7
+    Colour = 0
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 6
+  Tree Node:
+    Key = 8
+    Value = 8
+    Colour = 0
+    Left Key = 6
+    Right Key = 10
+    Parent Key = 4
+  Tree Node:
+    Key = 9
+    Value = 9
+    Colour = 0
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 10
+  Tree Node:
+    Key = 10
+    Value = 10
+    Colour = 1
+    Left Key = 9
+    Right Key = 11
+    Parent Key = 8
+  Tree Node:
+    Key = 11
+    Value = 11
+    Colour = 0
+    Left Key = NIL
+    Right Key = 12
+    Parent Key = 10
+  Tree Node:
+    Key = 12
+    Value = 12
+    Colour = 1
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 11
+Tree:
+Number of tree nodes = 12
+Tree insert type = 2
+  Tree Node:
+    Key = 1
+    Value = 1
+    Colour = 0
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 2
+  Tree Node:
+    Key = 2
+    Value = 2
+    Colour = 0
+    Left Key = 1
+    Right Key = 3
+    Parent Key = 4
+  Tree Node:
+    Key = 3
+    Value = 3
+    Colour = 0
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 2
+  Tree Node:
+    Key = 4
+    Value = 4
+    Colour = 0
+    Left Key = 2
+    Right Key = 8
+    Parent Key = NIL
+  Tree Node:
+    Key = 5
+    Value = 5
+    Colour = 0
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 6
+  Tree Node:
+    Key = 6
+    Value = 6
+    Colour = 1
+    Left Key = 5
+    Right Key = 7
+    Parent Key = 8
+  Tree Node:
+    Key = 7
+    Value = 7
+    Colour = 0
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 6
+  Tree Node:
+    Key = 8
+    Value = 8
+    Colour = 0
+    Left Key = 6
+    Right Key = 10
+    Parent Key = 4
+  Tree Node:
+    Key = 9
+    Value = 9
+    Colour = 0
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 10
+  Tree Node:
+    Key = 10
+    Value = 10
+    Colour = 1
+    Left Key = 9
+    Right Key = 11
+    Parent Key = 8
+  Tree Node:
+    Key = 11
+    Value = 11
+    Colour = 0
+    Left Key = NIL
+    Right Key = 12
+    Parent Key = 10
+  Tree Node:
+    Key = 12
+    Value = 12
+    Colour = 1
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 11
+Tree:
+Number of tree nodes = 12
+Tree insert type = 2
+  Tree Node:
+    Key = 1
+    Value = 1
+    Colour = 0
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 2
+  Tree Node:
+    Key = 2
+    Value = 2
+    Colour = 0
+    Left Key = 1
+    Right Key = 3
+    Parent Key = 4
+  Tree Node:
+    Key = 3
+    Value = 3
+    Colour = 0
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 2
+  Tree Node:
+    Key = 4
+    Value = 4
+    Colour = 0
+    Left Key = 2
+    Right Key = 8
+    Parent Key = NIL
+  Tree Node:
+    Key = 5
+    Value = 5
+    Colour = 0
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 6
+  Tree Node:
+    Key = 6
+    Value = 6
+    Colour = 1
+    Left Key = 5
+    Right Key = 7
+    Parent Key = 8
+  Tree Node:
+    Key = 7
+    Value = 7
+    Colour = 0
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 6
+  Tree Node:
+    Key = 8
+    Value = 8
+    Colour = 0
+    Left Key = 6
+    Right Key = 10
+    Parent Key = 4
+  Tree Node:
+    Key = 9
+    Value = 9
+    Colour = 0
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 10
+  Tree Node:
+    Key = 10
+    Value = 10
+    Colour = 1
+    Left Key = 9
+    Right Key = 11
+    Parent Key = 8
+  Tree Node:
+    Key = 11
+    Value = 11
+    Colour = 0
+    Left Key = NIL
+    Right Key = 12
+    Parent Key = 10
+  Tree Node:
+    Key = 12
+    Value = 12
+    Colour = 1
+    Left Key = NIL
+    Right Key = NIL
+    Parent Key = 11
